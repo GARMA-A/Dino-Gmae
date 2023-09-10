@@ -38,3 +38,8 @@ document.addEventListener("keydown",function(event)
 }
 
 );
+
+document.addEventListener("mousedown", function(event)
+{
+ jump();
+})
